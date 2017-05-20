@@ -4,3 +4,5 @@ There are three possible options you can specify:
 -the directory that you will work with
 -the quantity of days (1 by default)
 -the archive ext
+
+Your files will be archivated in the archive, which will have the directory name and date of creation in its name.
